@@ -6,3 +6,10 @@ p{
     background: red;
     color: gray;
 }
+pre{
+    background: green;
+    width: 200px;
+    height: 200px;
+    color: honeydew;
+    text-align: center;
+}
